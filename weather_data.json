@@ -1,0 +1,308 @@
+{
+    "Волгоград": {
+        "current": {"temp": 17, "condition": "clear", "wind": 2.9, "humidity": 48},
+        "hourly": { 
+            "08:00": {"temp": 17, "condition": "clear", "precipitation": "0%"},
+            "09:00": {"temp": 17, "condition": "clear", "precipitation": "0%"},
+            "10:00": {"temp": 18, "condition": "clear", "precipitation": "0%"},
+            "11:00": {"temp": 18, "condition": "clear", "precipitation": "0%"},
+            "12:00": {"temp": 19, "condition": "partly-cloudy", "precipitation": "5%"},
+            "13:00": {"temp": 19, "condition": "partly-cloudy", "precipitation": "5%"},
+            "14:00": {"temp": 20, "condition": "partly-cloudy", "precipitation": "10%"},
+            "15:00": {"temp": 20, "condition": "partly-cloudy", "precipitation": "10%"},
+            "16:00": {"temp": 19, "condition": "cloudy", "precipitation": "15%"},
+            "17:00": {"temp": 18, "condition": "cloudy", "precipitation": "20%"},
+            "18:00": {"temp": 18, "condition": "cloudy", "precipitation": "20%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 18, "condition": "clear"}, "2025-04-16": {"temp": 16, "condition": "partly-cloudy"} }
+    },
+    "Воронеж": {
+        "current": {"temp": 16, "condition": "clear", "wind": 2.7, "humidity": 52},
+        "hourly": { 
+            "08:00": {"temp": 16, "condition": "clear", "precipitation": "0%"},
+            "09:00": {"temp": 16, "condition": "clear", "precipitation": "0%"},
+            "10:00": {"temp": 17, "condition": "clear", "precipitation": "0%"},
+            "11:00": {"temp": 17, "condition": "clear", "precipitation": "0%"},
+            "12:00": {"temp": 18, "condition": "partly-cloudy", "precipitation": "5%"},
+            "13:00": {"temp": 18, "condition": "partly-cloudy", "precipitation": "5%"},
+            "14:00": {"temp": 19, "condition": "partly-cloudy", "precipitation": "10%"},
+            "15:00": {"temp": 19, "condition": "partly-cloudy", "precipitation": "10%"},
+            "16:00": {"temp": 18, "condition": "cloudy", "precipitation": "15%"},
+            "17:00": {"temp": 17, "condition": "cloudy", "precipitation": "20%"},
+            "18:00": {"temp": 17, "condition": "cloudy", "precipitation": "20%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 17, "condition": "clear"}, "2025-04-16": {"temp": 15, "condition": "partly-cloudy"} }
+    },
+    "Домодедово": {
+        "current": {"temp": 14, "condition": "partly-cloudy", "wind": 3.5, "humidity": 65},
+        "hourly": { 
+            "08:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "0%"},
+            "09:00": {"temp": 15, "condition": "partly-cloudy", "precipitation": "0%"},
+            "10:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "5%"},
+            "11:00": {"temp": 17, "condition": "partly-cloudy", "precipitation": "5%"},
+            "12:00": {"temp": 18, "condition": "partly-cloudy", "precipitation": "10%"},
+            "13:00": {"temp": 18, "condition": "cloudy", "precipitation": "15%"},
+            "14:00": {"temp": 19, "condition": "cloudy", "precipitation": "20%"},
+            "15:00": {"temp": 19, "condition": "rain", "precipitation": "40%"},
+            "16:00": {"temp": 18, "condition": "rain", "precipitation": "50%"},
+            "17:00": {"temp": 17, "condition": "partly-cloudy", "precipitation": "20%"},
+            "18:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "10%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 16, "condition": "clear"}, "2025-04-16": {"temp": 14, "condition": "cloudy"} }
+    },
+    "Ижевск": {
+        "current": {"temp": 11, "condition": "cloudy", "wind": 3.6, "humidity": 66},
+        "hourly": { 
+            "08:00": {"temp": 11, "condition": "cloudy", "precipitation": "10%"},
+            "09:00": {"temp": 11, "condition": "cloudy", "precipitation": "10%"},
+            "10:00": {"temp": 12, "condition": "cloudy", "precipitation": "15%"},
+            "11:00": {"temp": 12, "condition": "cloudy", "precipitation": "15%"},
+            "12:00": {"temp": 13, "condition": "partly-cloudy", "precipitation": "5%"},
+            "13:00": {"temp": 13, "condition": "partly-cloudy", "precipitation": "5%"},
+            "14:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "0%"},
+            "15:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "0%"},
+            "16:00": {"temp": 13, "condition": "cloudy", "precipitation": "10%"},
+            "17:00": {"temp": 12, "condition": "cloudy", "precipitation": "15%"},
+            "18:00": {"temp": 12, "condition": "cloudy", "precipitation": "20%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 12, "condition": "cloudy"}, "2025-04-16": {"temp": 10, "condition": "partly-cloudy"} }
+    },
+    "Казань": {
+        "current": {"temp": 13, "condition": "partly-cloudy", "wind": 3.2, "humidity": 62},
+        "hourly": { 
+            "08:00": {"temp": 13, "condition": "partly-cloudy", "precipitation": "0%"},
+            "09:00": {"temp": 13, "condition": "partly-cloudy", "precipitation": "0%"},
+            "10:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "5%"},
+            "11:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "5%"},
+            "12:00": {"temp": 15, "condition": "partly-cloudy", "precipitation": "10%"},
+            "13:00": {"temp": 15, "condition": "cloudy", "precipitation": "15%"},
+            "14:00": {"temp": 16, "condition": "cloudy", "precipitation": "20%"},
+            "15:00": {"temp": 16, "condition": "rain", "precipitation": "40%"},
+            "16:00": {"temp": 15, "condition": "rain", "precipitation": "50%"},
+            "17:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "20%"},
+            "18:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "10%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 14, "condition": "clear"}, "2025-04-16": {"temp": 12, "condition": "cloudy"} }
+    },
+    "Краснодар": {
+        "current": {"temp": 19, "condition": "clear", "wind": 2.3, "humidity": 45},
+        "hourly": { 
+            "08:00": {"temp": 19, "condition": "clear", "precipitation": "0%"},
+            "09:00": {"temp": 19, "condition": "clear", "precipitation": "0%"},
+            "10:00": {"temp": 20, "condition": "clear", "precipitation": "0%"},
+            "11:00": {"temp": 20, "condition": "clear", "precipitation": "0%"},
+            "12:00": {"temp": 21, "condition": "partly-cloudy", "precipitation": "5%"},
+            "13:00": {"temp": 21, "condition": "partly-cloudy", "precipitation": "5%"},
+            "14:00": {"temp": 22, "condition": "partly-cloudy", "precipitation": "10%"},
+            "15:00": {"temp": 22, "condition": "partly-cloudy", "precipitation": "10%"},
+            "16:00": {"temp": 21, "condition": "cloudy", "precipitation": "15%"},
+            "17:00": {"temp": 20, "condition": "cloudy", "precipitation": "20%"},
+            "18:00": {"temp": 20, "condition": "cloudy", "precipitation": "20%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 20, "condition": "clear"}, "2025-04-16": {"temp": 18, "condition": "partly-cloudy"} }
+    },
+    "Красноярск": {
+        "current": {"temp": 6, "condition": "snow", "wind": 4.8, "humidity": 82},
+        "hourly": { 
+            "08:00": {"temp": 6, "condition": "snow", "precipitation": "70%"},
+            "09:00": {"temp": 6, "condition": "snow", "precipitation": "60%"},
+            "10:00": {"temp": 7, "condition": "snow", "precipitation": "50%"},
+            "11:00": {"temp": 7, "condition": "cloudy", "precipitation": "30%"},
+            "12:00": {"temp": 8, "condition": "cloudy", "precipitation": "20%"},
+            "13:00": {"temp": 8, "condition": "cloudy", "precipitation": "15%"},
+            "14:00": {"temp": 8, "condition": "cloudy", "precipitation": "10%"},
+            "15:00": {"temp": 7, "condition": "snow", "precipitation": "40%"},
+            "16:00": {"temp": 7, "condition": "snow", "precipitation": "50%"},
+            "17:00": {"temp": 6, "condition": "snow", "precipitation": "60%"},
+            "18:00": {"temp": 6, "condition": "snow", "precipitation": "70%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 7, "condition": "snow"}, "2025-04-16": {"temp": 5, "condition": "cloudy"} }
+    },
+    "Москва": {
+        "current": {"temp": 15, "condition": "partly-cloudy", "wind": 3.5, "humidity": 65},
+        "hourly": { 
+            "08:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "0%"},
+            "09:00": {"temp": 15, "condition": "partly-cloudy", "precipitation": "0%"},
+            "10:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "5%"},
+            "11:00": {"temp": 17, "condition": "partly-cloudy", "precipitation": "5%"},
+            "12:00": {"temp": 18, "condition": "partly-cloudy", "precipitation": "10%"},
+            "13:00": {"temp": 18, "condition": "cloudy", "precipitation": "15%"},
+            "14:00": {"temp": 19, "condition": "cloudy", "precipitation": "20%"},
+            "15:00": {"temp": 19, "condition": "rain", "precipitation": "40%"},
+            "16:00": {"temp": 18, "condition": "rain", "precipitation": "50%"},
+            "17:00": {"temp": 17, "condition": "partly-cloudy", "precipitation": "20%"},
+            "18:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "10%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 16, "condition": "clear"}, "2025-04-16": {"temp": 14, "condition": "cloudy"} }
+    },
+    "Нижний Новгород": {
+        "current": {"temp": 14, "condition": "clear", "wind": 2.8, "humidity": 58},
+        "hourly": { 
+            "08:00": {"temp": 14, "condition": "clear", "precipitation": "0%"},
+            "09:00": {"temp": 14, "condition": "clear", "precipitation": "0%"},
+            "10:00": {"temp": 15, "condition": "clear", "precipitation": "0%"},
+            "11:00": {"temp": 15, "condition": "clear", "precipitation": "0%"},
+            "12:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "5%"},
+            "13:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "5%"},
+            "14:00": {"temp": 17, "condition": "partly-cloudy", "precipitation": "10%"},
+            "15:00": {"temp": 17, "condition": "partly-cloudy", "precipitation": "10%"},
+            "16:00": {"temp": 16, "condition": "cloudy", "precipitation": "15%"},
+            "17:00": {"temp": 15, "condition": "cloudy", "precipitation": "20%"},
+            "18:00": {"temp": 15, "condition": "cloudy", "precipitation": "20%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 15, "condition": "clear"}, "2025-04-16": {"temp": 13, "condition": "partly-cloudy"} }
+    },
+    "Новосибирск": {
+        "current": {"temp": 8, "condition": "snow", "wind": 5.0, "humidity": 80},
+        "hourly": { 
+            "08:00": {"temp": 8, "condition": "snow", "precipitation": "70%"},
+            "09:00": {"temp": 8, "condition": "snow", "precipitation": "60%"},
+            "10:00": {"temp": 9, "condition": "snow", "precipitation": "50%"},
+            "11:00": {"temp": 9, "condition": "cloudy", "precipitation": "30%"},
+            "12:00": {"temp": 10, "condition": "cloudy", "precipitation": "20%"},
+            "13:00": {"temp": 10, "condition": "cloudy", "precipitation": "15%"},
+            "14:00": {"temp": 10, "condition": "cloudy", "precipitation": "10%"},
+            "15:00": {"temp": 9, "condition": "snow", "precipitation": "40%"},
+            "16:00": {"temp": 9, "condition": "snow", "precipitation": "50%"},
+            "17:00": {"temp": 8, "condition": "snow", "precipitation": "60%"},
+            "18:00": {"temp": 8, "condition": "snow", "precipitation": "70%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 9, "condition": "snow"}, "2025-04-16": {"temp": 7, "condition": "cloudy"} }
+    },
+    "Омск": {
+        "current": {"temp": 7, "condition": "snow", "wind": 5.2, "humidity": 78},
+        "hourly": { 
+            "08:00": {"temp": 7, "condition": "snow", "precipitation": "70%"},
+            "09:00": {"temp": 7, "condition": "snow", "precipitation": "60%"},
+            "10:00": {"temp": 8, "condition": "snow", "precipitation": "50%"},
+            "11:00": {"temp": 8, "condition": "cloudy", "precipitation": "30%"},
+            "12:00": {"temp": 9, "condition": "cloudy", "precipitation": "20%"},
+            "13:00": {"temp": 9, "condition": "cloudy", "precipitation": "15%"},
+            "14:00": {"temp": 9, "condition": "cloudy", "precipitation": "10%"},
+            "15:00": {"temp": 8, "condition": "snow", "precipitation": "40%"},
+            "16:00": {"temp": 8, "condition": "snow", "precipitation": "50%"},
+            "17:00": {"temp": 7, "condition": "snow", "precipitation": "60%"},
+            "18:00": {"temp": 7, "condition": "snow", "precipitation": "70%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 8, "condition": "snow"}, "2025-04-16": {"temp": 6, "condition": "cloudy"} }
+    },
+    "Пермь": {
+        "current": {"temp": 10, "condition": "cloudy", "wind": 3.5, "humidity": 65},
+        "hourly": { 
+            "08:00": {"temp": 10, "condition": "cloudy", "precipitation": "10%"},
+            "09:00": {"temp": 10, "condition": "cloudy", "precipitation": "10%"},
+            "10:00": {"temp": 11, "condition": "cloudy", "precipitation": "15%"},
+            "11:00": {"temp": 11, "condition": "cloudy", "precipitation": "15%"},
+            "12:00": {"temp": 12, "condition": "partly-cloudy", "precipitation": "5%"},
+            "13:00": {"temp": 12, "condition": "partly-cloudy", "precipitation": "5%"},
+            "14:00": {"temp": 13, "condition": "partly-cloudy", "precipitation": "0%"},
+            "15:00": {"temp": 13, "condition": "partly-cloudy", "precipitation": "0%"},
+            "16:00": {"temp": 12, "condition": "cloudy", "precipitation": "10%"},
+            "17:00": {"temp": 11, "condition": "cloudy", "precipitation": "15%"},
+            "18:00": {"temp": 11, "condition": "cloudy", "precipitation": "20%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 11, "condition": "cloudy"}, "2025-04-16": {"temp": 9, "condition": "partly-cloudy"} }
+    },
+    "Ростов-на-Дону": {
+        "current": {"temp": 18, "condition": "clear", "wind": 2.5, "humidity": 50},
+        "hourly": { 
+            "08:00": {"temp": 18, "condition": "clear", "precipitation": "0%"},
+            "09:00": {"temp": 18, "condition": "clear", "precipitation": "0%"},
+            "10:00": {"temp": 19, "condition": "clear", "precipitation": "0%"},
+            "11:00": {"temp": 19, "condition": "clear", "precipitation": "0%"},
+            "12:00": {"temp": 20, "condition": "partly-cloudy", "precipitation": "5%"},
+            "13:00": {"temp": 20, "condition": "partly-cloudy", "precipitation": "5%"},
+            "14:00": {"temp": 21, "condition": "partly-cloudy", "precipitation": "10%"},
+            "15:00": {"temp": 21, "condition": "partly-cloudy", "precipitation": "10%"},
+            "16:00": {"temp": 20, "condition": "cloudy", "precipitation": "15%"},
+            "17:00": {"temp": 19, "condition": "cloudy", "precipitation": "20%"},
+            "18:00": {"temp": 19, "condition": "cloudy", "precipitation": "20%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 19, "condition": "clear"}, "2025-04-16": {"temp": 17, "condition": "partly-cloudy"} }
+    },
+    "Самара": {
+        "current": {"temp": 15, "condition": "clear", "wind": 3.0, "humidity": 55},
+        "hourly": { 
+            "08:00": {"temp": 15, "condition": "clear", "precipitation": "0%"},
+            "09:00": {"temp": 15, "condition": "clear", "precipitation": "0%"},
+            "10:00": {"temp": 16, "condition": "clear", "precipitation": "0%"},
+            "11:00": {"temp": 16, "condition": "clear", "precipitation": "0%"},
+            "12:00": {"temp": 17, "condition": "partly-cloudy", "precipitation": "5%"},
+            "13:00": {"temp": 17, "condition": "partly-cloudy", "precipitation": "5%"},
+            "14:00": {"temp": 18, "condition": "partly-cloudy", "precipitation": "10%"},
+            "15:00": {"temp": 18, "condition": "partly-cloudy", "precipitation": "10%"},
+            "16:00": {"temp": 17, "condition": "cloudy", "precipitation": "15%"},
+            "17:00": {"temp": 16, "condition": "cloudy", "precipitation": "20%"},
+            "18:00": {"temp": 16, "condition": "cloudy", "precipitation": "20%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 16, "condition": "clear"}, "2025-04-16": {"temp": 14, "condition": "partly-cloudy"} }
+    },
+    "Санкт-Петербург": {
+        "current": {"temp": 12, "condition": "rain", "wind": 4.0, "humidity": 70},
+        "hourly": { 
+            "08:00": {"temp": 12, "condition": "rain", "precipitation": "60%"},
+            "09:00": {"temp": 12, "condition": "rain", "precipitation": "50%"},
+            "10:00": {"temp": 13, "condition": "cloudy", "precipitation": "30%"},
+            "11:00": {"temp": 13, "condition": "cloudy", "precipitation": "20%"},
+            "12:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "10%"},
+            "13:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "5%"},
+            "14:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "5%"},
+            "15:00": {"temp": 13, "condition": "cloudy", "precipitation": "10%"},
+            "16:00": {"temp": 13, "condition": "cloudy", "precipitation": "15%"},
+            "17:00": {"temp": 12, "condition": "rain", "precipitation": "40%"},
+            "18:00": {"temp": 12, "condition": "rain", "precipitation": "50%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 13, "condition": "rain"}, "2025-04-16": {"temp": 11, "condition": "cloudy"} }
+    },
+    "Саратов": {
+        "current": {"temp": 15, "condition": "partly-cloudy", "wind": 3.1, "humidity": 60},
+        "hourly": { 
+            "08:00": {"temp": 15, "condition": "partly-cloudy", "precipitation": "0%"},
+            "09:00": {"temp": 15, "condition": "partly-cloudy", "precipitation": "0%"},
+            "10:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "5%"},
+            "11:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "5%"},
+            "12:00": {"temp": 17, "condition": "partly-cloudy", "precipitation": "10%"},
+            "13:00": {"temp": 17, "condition": "cloudy", "precipitation": "15%"},
+            "14:00": {"temp": 18, "condition": "cloudy", "precipitation": "20%"},
+            "15:00": {"temp": 18, "condition": "rain", "precipitation": "40%"},
+            "16:00": {"temp": 17, "condition": "rain", "precipitation": "50%"},
+            "17:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "20%"},
+            "18:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "10%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 16, "condition": "clear"}, "2025-04-16": {"temp": 14, "condition": "cloudy"} }
+    },
+    "Тольятти": {
+        "current": {"temp": 14, "condition": "clear", "wind": 2.8, "humidity": 55},
+        "hourly": { 
+            "08:00": {"temp": 14, "condition": "clear", "precipitation": "0%"},
+            "09:00": {"temp": 14, "condition": "clear", "precipitation": "0%"},
+            "10:00": {"temp": 15, "condition": "clear", "precipitation": "0%"},
+            "11:00": {"temp": 15, "condition": "clear", "precipitation": "0%"},
+            "12:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "5%"},
+            "13:00": {"temp": 16, "condition": "partly-cloudy", "precipitation": "5%"},
+            "14:00": {"temp": 17, "condition": "partly-cloudy", "precipitation": "10%"},
+            "15:00": {"temp": 17, "condition": "partly-cloudy", "precipitation": "10%"},
+            "16:00": {"temp": 16, "condition": "cloudy", "precipitation": "15%"},
+            "17:00": {"temp": 15, "condition": "cloudy", "precipitation": "20%"},
+            "18:00": {"temp": 15, "condition": "cloudy", "precipitation": "20%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 15, "condition": "clear"}, "2025-04-16": {"temp": 13, "condition": "partly-cloudy"} }
+    },
+    "Уфа": {
+        "current": {"temp": 11, "condition": "cloudy", "wind": 3.8, "humidity": 68},
+        "hourly": { 
+            "08:00": {"temp": 11, "condition": "cloudy", "precipitation": "10%"},
+            "09:00": {"temp": 11, "condition": "cloudy", "precipitation": "10%"},
+            "10:00": {"temp": 12, "condition": "cloudy", "precipitation": "15%"},
+            "11:00": {"temp": 12, "condition": "cloudy", "precipitation": "15%"},
+            "12:00": {"temp": 13, "condition": "partly-cloudy", "precipitation": "5%"},
+            "13:00": {"temp": 13, "condition": "partly-cloudy", "precipitation": "5%"},
+            "14:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "0%"},
+            "15:00": {"temp": 14, "condition": "partly-cloudy", "precipitation": "0%"},
+            "16:00": {"temp": 13, "condition": "cloudy", "precipitation": "10%"},
+            "17:00": {"temp": 12, "condition": "cloudy", "precipitation": "15%"},
+            "18:00": {"temp": 12, "condition": "cloudy", "precipitation": "20%"}
+        },
+        "forecast": { "2025-04-15": {"temp": 12, "condition": "cloudy"}, "2025-04-16": {"temp": 10, "condition": "partly-cloudy"} }
+    }
+}
